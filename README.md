@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center"><a href="https://canro91.github.io/" target=blank"><img src="https://github.com/canro91/canro91/blob/master/GeneralBanner.png" width="100%" /></a></p>
 
-<!--
-**canro91/canro91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="https://canro91.github.io/" target=blank">Blog</a> | <a href="https://dev.to/canro91" target="blank">dev.to</a> | <a href="https://linkedin.com/in/iamcesaraguirre" target="blank">LinkedIn</a></p>
 
-Here are some ideas to get you started:
+<h1>Hola 👋, I'm Cesar</h1>
+<h3>A software engineer, lifelong learner, language enthusiast and vivid reader</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming and learning. I share my learning on my journey as a software engineer through [my blog](https://canro91.github.io/about/). In my free time, I like to read books _(on paper)_ and learn and teach foreign languages.
+
+- 🔭 I’m currently working as C# back-end engineer
+- 🌱 I’m currently learning JavaScript/React and 🇧🇷 Brazilian Portuguese
+- 👯 I’m looking to collaborate on C#, Python or Go open source projects
+- 💬 Ask me about C#, language learning or anything else. I don't have all answers, tho
+- ⚡ Fun fact: cat owner, vim user, plain-text lover and Zettelkasten practitioner
