@@ -11,4 +11,4 @@ I'm passionate about programming and learning. I share my learning on my journey
 - 🌱 I’m currently learning JavaScript/React and 🇧🇷 Brazilian Portuguese
 - 👯 I’m looking to collaborate on C#, Python or Go open source projects
 - 💬 Ask me about C#, language learning or anything else. I don't have all answers, tho
-- ⚡ Fun fact: cat owner, vim user, plain-text lover and Zettelkasten practitioner
+- ⚡ Fun fact: cat owner, [vim user](https://canro91.github.io/2020/09/14/LearnVimForFunAndProfit/), [plain-text lover](https://canro91.github.io/2020/08/29/HowITakeNotes/) and Zettelkasten practitioner
