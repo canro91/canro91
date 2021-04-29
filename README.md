@@ -17,8 +17,8 @@ I’m a software engineer based in Colombia 🇨🇴 _(not Columbia)_. I help te
 
 If you don’t know where to start reading my blog, head to any of these posts:
 
-- [How to add a caching layer with ASP.NET Core 3.X](https://canro91.github.io/2020/06/29/HowToAddACacheLayer/)
+- [How to add a caching layer with ASP.NET Core](https://canro91.github.io/2020/06/29/HowToAddACacheLayer/)
 - [Two free tools to format your SQL queries](https://canro91.github.io/2020/09/30/FormatSQL/)
-- [C# Idioms serie](https://canro91.github.io/2019/11/19/TwoCSharpIdioms/)
+- [C# Idioms series](https://canro91.github.io/2019/11/19/TwoCSharpIdioms/)
 - [Postfix Notation](https://canro91.github.io/2019/08/02/PostfixNotationAnInterviewExercise/)
 - [Unit Testing 101](https://canro91.github.io/2021/03/15/UnitTesting101/)
