@@ -1,6 +1,6 @@
 <p align="center"><a href="https://canro91.github.io/" target=blank"><img src="https://github.com/canro91/canro91/blob/master/GeneralBanner.png" width="100%" /></a></p>
 
-<p align="center"><a href="https://canro91.github.io/" target=blank">Blog</a> | <a href="https://dev.to/canro91" target="blank">dev.to</a> | <a href="https://linkedin.com/in/iamcesaraguirre" target="blank">LinkedIn</a></p>
+<p align="center"><a href="https://canro91.github.io/" target="_blank">Blog</a> | <a href="https://dev.to/canro91" target="_blank">dev.to</a> | <a href="https://linkedin.com/in/iamcesaraguirre" target="_blank">LinkedIn</a></p>
 
 <h1>Hola 👋, I'm Cesar Aguirre</h1>
 <h3>A software engineer, lifelong learner, language enthusiast and vivid reader</h3>
