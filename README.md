@@ -3,7 +3,7 @@
 <p align="center"><a href="https://bit.ly/imcsarag" target="_blank">Blog</a> | <a href="https://dev.to/canro91" target="_blank">dev.to</a> | <a href="https://linkedin.com/in/iamcesaraguirre" target="_blank">LinkedIn</a></p>
 
 <h1>Hola 👋, I'm Cesar Aguirre</h1>
-<h3>A software engineer, lifelong learner, language enthusiast and vivid reader</h3>
+<h3>A software engineer, lifelong learner, language enthusiast and avid reader</h3>
 
 I’m a software engineer based in Colombia 🇨🇴 _(not Columbia)_. I help teams to grow high-quality code. And by high-quality, I mean maintainable and performant.
   
@@ -25,4 +25,4 @@ If you don’t know where to start reading my blog, head to any of these posts:
 - [C# Idioms series](https://canro91.github.io/2019/11/19/TwoCSharpIdioms/)
 - [Remote interview: Types and Tips](https://canro91.github.io/2019/09/29/RemoteInterviewTips/)
 
-Read [my blog](https://bit.ly/imcsarag). Follow [my courses](https://bit.ly/imcsarag-courses). Download [my ebooks](https://bit.ly/imcsarag-ebooks). Buy me [a coffee](https://bit.ly/imcsarag-coffee)
+_Whether you’re starting out or already on the software engineering journey, <a href="https://imcsarag.gumroad.com/l/careerlessonsfromthetrenches"  target="_blank">join my free 7-day email course</a> to refactor your coding career now — I distill 10+ years of career lessons into 7 short emails. Email #1 could save your next software projects from failure._
