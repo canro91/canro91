@@ -19,11 +19,10 @@ I share my learning on my journey as a software engineer through [my blog](https
 
 If you don’t know where to start reading my blog, head to any of these posts:
 
-- [How to add a caching layer with ASP.NET Core](https://canro91.github.io/2020/06/29/HowToAddACacheLayer/)
-- [A guide to Remote Interviews: Types and Tips](https://canro91.github.io/2019/09/29/RemoteInterviewTips/)
-- [Unit Testing 101 series](https://canro91.github.io/UnitTesting)
-- [C# Definitive Guide](https://canro91.github.io/2018/11/17/TheC-DefinitiveGuide/)
-- [C# Idioms series](https://canro91.github.io/2019/11/19/TwoCSharpIdioms/)
-
+- [9 Subjects I've Changed My Mind About as a Software Engineer](https://canro91.github.io/2025/03/19/ChangedMyMind/)
+- [5 Lessons from My Team's Architect That Helped Me Become a Senior Developer](https://canro91.github.io/2025/10/25/LessonsFromMentor/)
+- [12 Hard Truths About Coding I Learned the Hard Way After 10 Years](https://canro91.github.io/2025/04/17/HarshTruths/)
+- [Three Tips to Read Code More Effectively](https://canro91.github.io/2025/03/26/ReadCode/)
+- [10 Ways to Stand Out at Work—Other than Work Hard](https://canro91.github.io/2025/02/26/StandOutAtWork/)
 
 _Starting out or already on the software engineering journey? <a href="https://imcsarag.gumroad.com/l/careerlessonsfromthetrenches" target="_blank">Join my free 7-day email course</a> where I distill 10+ years of career lessons into 7 short emails—so you can skip years of trial and error and move your career forward. Email #1 could save your next software projects from failure._
