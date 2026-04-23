@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://bit.ly/imcsarag" target="_blank">Blog</a> | <a href="https://dev.to/canro91" target="_blank">dev.to</a> | <a href="https://linkedin.com/in/iamcesaraguirre" target="_blank">LinkedIn</a></p>
 
-<h1>Hola 👋, I'm Cesar Aguirre</h1>
+<h1>Hola, I'm Cesar Aguirre! 👋</h1>
 <h3>A software engineer, lifelong learner, language enthusiast, and avid reader</h3>
 
 I’m a software engineer based in Colombia 🇨🇴 _(not Columbia)_. I help teams to grow high-quality code. And by high-quality, I mean maintainable and performant.
